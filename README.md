@@ -9,7 +9,7 @@
   
 <div style="display: flex; justify-content: center; align-items: center;">
 <img height="180em" width="600" src="https://github-readme-stats.vercel.app/api?username=NickPugles&show_icons=false&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickPugles&layout=compact&langs_count=16&theme=radical"/>
+<img height="180em" width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickPugles&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
 ## Linguagens:
