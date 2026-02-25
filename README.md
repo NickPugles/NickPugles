@@ -1,11 +1,11 @@
 ## Oi, Eu sou a Nicolli!
 - 🧿 17/12/2007
 - ✨ Pronome: Ela/Dela
-- ⌨ E-mail: nicollizatorre2007@gmail.com
+- ⌨ E-mail: nicollipugles@gmail.com
 - 🚩 Boituva/SP
-- 👩🏻 Aluna do SESI/SENAI
-- 👩🏻‍💻 Estudando Desenvolvimento de Sistemas
-- 💻 Aprendendo HTML
+- 🎓Formada em Análise e Desenvolvimento de Sistemas 
+- 👩🏻 Estudando Engenharia da Computação na FACENS
+- 💻 Apaixonada em programação
   
 <div style="display: flex; justify-content: center; align-items: center;">
 <img height="180em" width="390" src="https://github-readme-stats.vercel.app/api?username=NickPugles&show_icons=false&theme=radical&include_all_commits=true&count_private=true"/>
