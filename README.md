@@ -25,6 +25,7 @@
 <img align="center" alt="Nicolli-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <img align="center" alt="Nicolli-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg">
 <img align="center" alt="Nicolli-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg">
+<img align="center" alt="Nicolli-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
 </div>
 
 ###
