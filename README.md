@@ -3,7 +3,7 @@
 - ✨ Pronome: Ela/Dela
 - ⌨ E-mail: nicollipugles@gmail.com
 - 🚩 Boituva/SP
-- 🎓Formada em Análise e Desenvolvimento de Sistemas 
+- 🎓Formada em Análise e Desenvolvimento de Sistemas no SENAI
 - 👩🏻 Estudando Engenharia da Computação na FACENS
 - 💻 Apaixonada por programação e banco de dados
   
