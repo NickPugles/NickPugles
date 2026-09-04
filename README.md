@@ -1,4 +1,4 @@
-## Oi, Eu sou a Nicolli!
+## Hey, I am Nicolli!
 - 🧿 17/12/2007
 - ✨ Pronome: Ela/Dela
 - ⌨ E-mail: nicollipugles@gmail.com
