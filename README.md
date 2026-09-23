@@ -5,10 +5,10 @@
 - 🚩 Boituva,SP
 - 🎓 Degree in Systems Analysis and Development from SENAI - Formada em Análise e Desenvolvimento de Sistemas no SENAI
 - 👩🏻 Studying Computer Engineering at FACENS - Estudando Engenharia da Computação na FACENS
-- 💻 Apaixonada por programação e banco de dados
+- 💻 Passionate about programming and databases - Apaixonada por programação e banco de dados
   
 <div style="display: flex; justify-content: center; align-items: center;">
-<img height="180em" width="390" src="https://github-readme-stats.vercel.app/api?username=NickPugles&show_icons=false&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="170em" width="390" src="https://github-readme-stats.vercel.app/api?username=NickPugles&show_icons=false&theme=radical&include_all_commits=true&count_private=true"/>
 <img height="180em" width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickPugles&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
