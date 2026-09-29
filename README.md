@@ -6,10 +6,16 @@
 - 🎓 Degree in Systems Analysis and Development from SENAI - Formada em Análise e Desenvolvimento de Sistemas no SENAI
 - 👩🏻 Studying Computer Engineering at FACENS - Estudando Engenharia da Computação na FACENS
 - 💻 Passionate about programming and databases - Apaixonada por programação e banco de dados
-  
-<div style="display: flex; justify-content: center; align-items: center;">
-<img height="180em" width="390" src="https://github-readme-stats.vercel.app/api?username=NickPugles&show_icons=false&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickPugles&layout=compact&langs_count=16&theme=radical"/>
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/nicolli-pugles)
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=NickPugles&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150"alt="streakgraph"/>
+ </div>
+ 
+<div align="center">
+  <img height="180em"width="390"src="https://githubreadmestats.vercel.app/apiusername=NickPugles&show_icons=false&theme=radical&include_all_commits=true&count_private=tr"
+    />
+  <img height="180em" width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickPugles&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
 ## Linguagens:
